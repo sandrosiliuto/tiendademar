@@ -1,0 +1,25 @@
+{
+  "common": {
+    "discover": "Kollektion entdecken",
+    "shop": "Shop",
+    "contact": "Kontakt",
+    "about": "Über uns",
+    "experience": "Erfahrung",
+    "whatsapp_msg": "Hallo, ich hätte gerne Informationen zu Ihren Produkten",
+    "location": "Playa Chica, El Médano"
+  },
+  "hero": {
+    "title": "Meeresladen",
+    "subtitle": "Stil, Eleganz und Meer"
+  },
+  "categories": {
+    "pamelas": "Sonnenhüte",
+    "bags": "Taschen",
+    "jewelry": "Schmuck",
+    "accessories": "Zubehör"
+  },
+  "story": {
+    "title": "Mode mit Meeresseele",
+    "text": "Jedes Stück ist so ausgewählt, dass Sie sich besonders fühlen. Eine sorgfältige Auswahl, Mode mit Seele und Inspiration vom Meer."
+  }
+}

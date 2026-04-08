@@ -1,0 +1,25 @@
+{
+  "common": {
+    "discover": "Discover collection",
+    "shop": "Shop",
+    "contact": "Contact",
+    "about": "About",
+    "experience": "Experience",
+    "whatsapp_msg": "Hello, I would like information about your products",
+    "location": "Playa Chica, El Médano"
+  },
+  "hero": {
+    "title": "Sea Shop",
+    "subtitle": "Style, elegance and sea"
+  },
+  "categories": {
+    "pamelas": "Sun Hats",
+    "bags": "Bags",
+    "jewelry": "Jewelry",
+    "accessories": "Accessories"
+  },
+  "story": {
+    "title": "Fashion with a sea soul",
+    "text": "Each piece is chosen to make you feel special. A careful selection, fashion with soul and inspiration from the sea."
+  }
+}

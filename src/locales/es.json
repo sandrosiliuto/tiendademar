@@ -1,0 +1,25 @@
+{
+  "common": {
+    "discover": "Descubrir colección",
+    "shop": "Tienda",
+    "contact": "Contacto",
+    "about": "Nosotros",
+    "experience": "Experiencia",
+    "whatsapp_msg": "Hola, quiero información sobre vuestros productos",
+    "location": "Playa Chica, El Médano"
+  },
+  "hero": {
+    "title": "Tienda de Mar",
+    "subtitle": "Estilo, elegancia y mar"
+  },
+  "categories": {
+    "pamelas": "Pamelas",
+    "bags": "Bolsos",
+    "jewelry": "Bisutería",
+    "accessories": "Complementos"
+  },
+  "story": {
+    "title": "Moda con alma de mar",
+    "text": "Cada pieza está elegida para hacerte sentir especial. Una selección cuidada, moda con alma e inspiración en el mar."
+  }
+}
